@@ -1,3 +1,24 @@
+An overview of this project - Facebook Clone:
+
+1. Sign in with google authentication
+
+<img src="./scshot/1.png" />
+
+<img src="./scshot/3.png" />
+
+<img src="./scshot/2.png" />
+
+2. Upload your post in real time
+
+<img src="./scshot/4.png" />
+
+<img src="./scshot/5.png" />
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
